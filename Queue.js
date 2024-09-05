@@ -57,3 +57,4 @@ console.log(front);
 const popElement=Queue.shift();
 console.log(popElement);
 console.log(Queue);
+console.log(Queue);

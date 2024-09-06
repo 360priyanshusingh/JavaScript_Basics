@@ -32,4 +32,5 @@ console.log(mySet);
 // }
 mySet.forEach((val)=>{
     console.log(val)
+    console.log(val)
 })
